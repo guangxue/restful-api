@@ -1,2 +1,2 @@
-# backend-api
-Backend API development for guangxuezhang.com
+# RESTful API Development
+A RESTful API development for api.guangxuezhang.com
